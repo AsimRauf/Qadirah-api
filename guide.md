@@ -1,4 +1,3 @@
-Of course. Here is the information presented in a Markdown file format. You can copy and paste this into a file named `README.md` or similar.
 
 ---
 
